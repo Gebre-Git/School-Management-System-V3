@@ -56,6 +56,6 @@ Student View
 
 Check out the Youtube demo video for a walkthrough of the application in action.
 
-**License**
+##License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -48,7 +48,7 @@ The system's data is stored and retrieved from an **SQLite** database, ensuring 
   ![Admin Dashboard](App_Demo_Image/Admin_Home.PNG)
 
 - **Teacher Dashboard**  
-   ![Admin Dashboard](App%20Demo%20Image/Admin%20Home.PNG)
+   ![Admin Dashboard](App%20Demo%20Image/6.%20Admin%20Home.PNG)
 
 - **Student View**  
   ![Student View](path/to/student_view.png)

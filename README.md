@@ -56,8 +56,8 @@ The system's data is stored and retrieved from an **SQLite** database, ensuring 
 - **Admin Registration**  
   ![Student View](App%20Demo%20Image/7.%20Registration.PNG)
 
-- **Application Demo Image Folder (Detailed)**
-  ![Student View](App%20Demo%20Image)
+- **Application Demo Image (Detailed)**
+  Check out the [App Demo Image folder](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image) for all project demo images.
 ## Demo Video
 
 Check out the [YouTube demo video](link-to-your-video) for a walkthrough of the application in action.

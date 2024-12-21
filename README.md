@@ -42,16 +42,19 @@ The system's data is stored and retrieved from an **SQLite** database, ensuring 
 
 ## Screenshots
 - **Login Page (Admin, Teacher, Student)**  
-  ![Login Page](path/to/login_page.png)
+  ![Login Page](App%20Demo%20Image/2.%20home%20page.PNG)
 
 - **Admin Dashboard**  
-  ![Admin Dashboard](App_Demo_Image/Admin_Home.PNG)
+  ![Admin Dashboard](App%20Demo%20Image/6.%20Admin%20Home.PNG)
 
-- **Teacher Dashboard**  
-   ![Admin Dashboard](App%20Demo%20Image/6.%20Admin%20Home.PNG)
+- **Teacher Login**  
+   ![Admin Dashboard](App%20Demo%20Image/18.%20Techer's%20Log%20in.PNG)
 
-- **Student View**  
-  ![Student View](path/to/student_view.png)
+- **Student Login**  
+  ![Student View](App%20Demo%20Image/23.%20Student's%20Login.PNG)
+  
+- **Admin Registration**  
+  ![Student View](App%20Demo%20Image/7.%20Registration.PNG)
 
 ## Demo Video
 

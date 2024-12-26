@@ -1,6 +1,6 @@
 # School Management System
 
-A **C#** desktop application designed to simplify the management of school operations. This system enables **Admin**, **Teachers**, and **Students** to interact with the application through tailored interfaces for efficient record-keeping, attendance management, and result tracking.
+This project is made by Abreham Ayana and Gebremariam Birhanu, a **C#** desktop application designed to simplify the management of school operations. This system enables **Admin**, **Teachers**, and **Students** to interact with the application through tailored interfaces for efficient record-keeping, attendance management, and result tracking.
 
 ## Features
 

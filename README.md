@@ -2,6 +2,13 @@
 
 This project is made by **Abreham Ayana** and **Gebremariam Birhanu**, a **C#** desktop application designed to simplify the management of school operations. This system enables **Admin**, **Teachers**, and **Students** to interact with the application through tailored interfaces for efficient record-keeping, attendance management, and result tracking.
 
+## Note:
+
+The full project, including all dependencies and resources, is not uploaded due to its large size. Instead, this repository contains:
+    - **Source Code:** The main application code. 
+    - **Screenshots:** A folder with images showcasing the application's interface and functionality. [Show it](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image) 
+    - **Demo Video:** A video demonstrating the application in action. [Watch it on YouTube.](https://youtu.be/Yds1RuJ_J70?t=92)  
+
 ## Features
 
 ### Admin

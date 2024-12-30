@@ -56,13 +56,28 @@ The system's data is stored and retrieved from an **SQLite** database, ensuring 
 - **Admin Registration**  
   ![Student View](App%20Demo%20Image/7.%20Registration.PNG)
 
-- **Application Demo Image (Detailed)**
+
+### Application Demo Image (Detailed)**
+
   Check out the [App Demo Image folder](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image) for all project demo images.
-## Demo Video
+  
+### Demo Video
 
-Check out the [YouTube demo video](link-to-your-video) for a walkthrough of the application in action.
+  Check out the [YouTube demo video](https://youtu.be/Yds1RuJ_J70?t=92) for a walkthrough of the application in action.
 
-## License
+### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  
+### Acknowledgments
+
+- Developed by **Gebremariam Birhanu (main developer)** with backend contributions on the SQL database by **Abrham Ayana**.
+  The project idea and most of the development work, including the Windows Forms interface and the subsequent console version,
+  were initiated and implemented by Gebremariam Birhanu.
+- Inspired by the need to digitize manual record-keeping processes in schools.
+
+### System Version:
+- Version 1 (Python tkinter) : [School-Management-System-V1](https://github.com/Gebre-Git/School-Management-System-V1)
+- Version 2 (Csharp Console) : [School-Management-System-V2](https://github.com/Gebre-Git/School-Management-System-V2)
+- Version 3 (Advanced version of windowforms) : [School-Management-System-V3](https://github.com/Gebre-Git/School-Management-System-V3)  
 

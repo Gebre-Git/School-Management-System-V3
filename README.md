@@ -4,12 +4,10 @@ This project is made by **Abreham Ayana** and **Gebremariam Birhanu**, a **C#** 
 
 ## Note:
 
-The full project, including all dependencies and resources, is not uploaded due to its large size. Instead, this repository contains:
-    - **Source Code:** The main application code. 
-    - **Screenshots:** A folder with images showcasing the application's interface and functionality. [Show it](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image) 
-    - **Demo Video:** A video demonstrating the application in action. [Watch it on YouTube.](https://youtu.be/Yds1RuJ_J70?t=92)  
-
-## Features
+- The full project, including all dependencies and resources, is not uploaded due to its large size. Instead, this repository contains:
+ - **Source Code:** The main application code. 
+ - **Screenshots:** A folder with images showcasing the application's interface and functionality. [Screenshots](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image)
+ - **Demo Video:** A video demonstrating the application in action. [Watch it on YouTube.](https://youtu.be/Yds1RuJ_J70?t=92)  
 
 ### Admin
 - **Registration**: Add new students and teachers to the system.

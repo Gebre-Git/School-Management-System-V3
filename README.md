@@ -7,7 +7,7 @@ This project is a **C#** desktop application designed to simplify the management
 - The full project, including all dependencies and resources, is not uploaded due to its large size. Instead, this repository contains:
  - **Source Code:** The main application code. 
  - **Screenshots:** A folder with images showcasing the application's interface and functionality. [Screenshots](https://github.com/Gebre-Git/School-Management-System/blob/main/App%20Demo%20Image)
- - **Demo Video:** A video demonstrating the application in action. [Watch it on YouTube.](https://youtu.be/Yds1RuJ_J70?t=92)  
+ - **Demo Video:** A video demonstrating the application in action. [Watch it on YouTube.](https://www.youtube.com/watch?v=0z36NpjDwmY&t=2s)  
 
 ### Admin
 - **Registration**: Add new students and teachers to the system.
@@ -68,7 +68,7 @@ The system's data is stored and retrieved from an **SQLite** database, ensuring 
   
 ### Demo Video
 
-  Check out the [YouTube demo video](https://youtu.be/Yds1RuJ_J70?t=92) for a walkthrough of the application in action.
+  Check out the [YouTube demo video](https://www.youtube.com/watch?v=0z36NpjDwmY&t=2s) for a walkthrough of the application in action.
 
 ### License
 
